@@ -3,6 +3,8 @@
 
 This application uses inquirer and postgres to manage a databse of employees and managers.
 
+It uses inquirer for a smooth user experience in the console.
+
 
 ## Installation
 
